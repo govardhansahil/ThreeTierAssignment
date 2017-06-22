@@ -1,0 +1,5 @@
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

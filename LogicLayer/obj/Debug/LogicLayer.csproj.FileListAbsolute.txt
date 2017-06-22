@@ -1,0 +1,7 @@
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\LogicLayer\bin\Debug\LogicLayer.dll
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\LogicLayer\bin\Debug\LogicLayer.pdb
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\LogicLayer\bin\Debug\DataAccessLayer.dll
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\LogicLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\LogicLayer\obj\Debug\LogicLayer.dll
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\LogicLayer\obj\Debug\LogicLayer.pdb

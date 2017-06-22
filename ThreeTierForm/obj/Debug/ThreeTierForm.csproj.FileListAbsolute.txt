@@ -1,0 +1,15 @@
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\bin\Debug\ThreeTierForm.exe.config
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\bin\Debug\ThreeTierForm.exe
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\bin\Debug\ThreeTierForm.pdb
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\bin\Debug\LogicLayer.dll
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\bin\Debug\DataAccessLayer.dll
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\bin\Debug\LogicLayer.pdb
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\bin\Debug\DataAccessLayer.pdb
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\obj\Debug\ThreeTierForm.csprojResolveAssemblyReference.cache
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\obj\Debug\ThreeTierForm.regpage.resources
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\obj\Debug\ThreeTierForm.Home.resources
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\obj\Debug\ThreeTierForm.Properties.Resources.resources
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\obj\Debug\ThreeTierForm.Start_Page.resources
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\obj\Debug\ThreeTierForm.csproj.GenerateResource.Cache
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\obj\Debug\ThreeTierForm.exe
+c:\users\govardhan.nandi\documents\visual studio 2015\Projects\ThreeTierForm\ThreeTierForm\obj\Debug\ThreeTierForm.pdb
